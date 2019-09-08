@@ -1,0 +1,5 @@
+# pycharm file
+.idea/*
+# other
+*.rar
+__pycache__
